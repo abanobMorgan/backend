@@ -1,0 +1,2 @@
+ docker run --name spring-postgres -e POSTGREs_PASSWORD=PaSSworD -d -p 5432:5432 postgres
+
