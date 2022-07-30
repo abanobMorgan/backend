@@ -17,10 +17,10 @@ what is this registration look like
 ![register page to create an account to use for login](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/registe_page.PNG)
 
 - try to create weak password   
-[create weak password](https://github.com/abanobMorgan/backend/blob/registration/Python/registrations/images/trying_to_create_weak_pass.PNG)
+[create weak password](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/trying_to_create_weak_pass.PNG)
 
 - after registe   
-[after registe](https://github.com/abanobMorgan/backend/blob/registration/Python/registrations/images/registered.PNG)
+[after registe](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/registered.PNG)
 
 - home
 ![home](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/home.PNG)
