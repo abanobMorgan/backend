@@ -10,6 +10,8 @@ how to integrate this project with your project
 what is this registration look like 
 
 
+
+
 - try to login
 ![trying to login without create an account](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/Try_to_login_without_account.PNG)
 
@@ -32,7 +34,7 @@ what is this registration look like
 ![edited profile page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/edited_profile.PNG)
 
 - edit passwrod     
-![edit passwrod page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/change_pass.PNG
+![edit passwrod page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/change_pass.PNG)
 
 
 - edited passwrod    
