@@ -9,29 +9,31 @@ how to integrate this project with your project
 
 what is this registration look like 
 
+
 - try to login
 ![trying to login without create an account](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/Try_to_login_without_account.PNG)
 
-- registe
-![register page to create an account to use for login](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/registe_page.PNG)
+- registe   
+![register page to create an account to use for login](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/registe_page.PNG)
 
-- try to create weak password
-[create weak password](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/trying_to_create_weak_pass.png)
+- try to create weak password   
+[create weak password](https://github.com/abanobMorgan/backend/blob/registration/Python/registrations/images/trying_to_create_weak_pass.PNG)
 
-- after registe
-[after registe](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/registered.png)
+- after registe   
+[after registe](https://github.com/abanobMorgan/backend/blob/registration/Python/registrations/images/registered.PNG)
 
 - home
-![home](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/home.PNG)
+![home](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/home.PNG)
 
-- edit profile
-![edit profile page](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/edit_profile.PNG)
+- edit profile   
+![edit profile page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/edit_profile.PNG)
 
-- edited profile
-![edited profile page](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/edited_profile.PNG)
+- edited profile   
+![edited profile page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/edited_profile.PNG)
 
-- edit passwrod
-![edit passwrod page](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/change_pass.PNG)
+- edit passwrod     
+![edit passwrod page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/change_pass.PNG
 
-- edited passwrod 
-![edited passwrod page](https://github.com/abanobMorgan/backend/tree/main/Python/registrations/images/edited_password.PNG)
+
+- edited passwrod    
+![edited passwrod page](https://github.com/abanobMorgan/backend/blob/main/Python/registrations/images/edited_password.PNG)
